@@ -26,7 +26,10 @@
  "license": {
   "text": "CC0 1.0"
  },
- "translation": null,
+ "translation": {
+  "count": 3,
+  "note": "AI による現代語訳"
+ },
  "blocks": [
   {
    "id": "gunsho09-nakafumi-0001",
@@ -789,6 +792,7 @@
   "poems": 64,
   "editions": 1,
   "updated": "2026-11-02",
-  "updated_at": "2026-11-02T21:42:18+09:00"
+  "updated_at": "2026-11-02T21:42:18+09:00",
+  "yaku": 3
  }
 }
